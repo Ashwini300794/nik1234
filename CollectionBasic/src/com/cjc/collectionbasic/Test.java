@@ -13,6 +13,7 @@ list.add(10);
 list.add(20);
 list.add(40);
 list.add("Nik");
+		hkkkjkkjk
 
 int x=(int)list.get(1);
 System.out.println(x);
